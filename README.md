@@ -31,6 +31,7 @@
 - [x] 🔨 和 Nuxt DevTools 一样的辅助开发能力
 - [x] ☝️ 激活，选中，修改，审查代码，和 Guii AI 一起写前端
 - [x] 🌎 支持任意前端框架，Vue，React，Angular，Svelte，等等
+- [x] 🔮 多模态，用图片和 Figma，甚至是草图描述你的期望
 
 ## How
 
