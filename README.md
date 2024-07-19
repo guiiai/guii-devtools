@@ -22,6 +22,10 @@
     <img src="./docs/wechat.jpg" width="160" height="160">
 </p>
 
+- [x] 业务总是希望使用稳定的组件库，我们支持在编写的代码中适配组件，现有的项目架构和现成的代码
+  - [x] 已经支持的组件库
+    - [x] [Radix Vue](https://www.radix-vue.com/)
+    - [x] [shadcn vue](https://www.shadcn-vue.com/)
 - [x] 🚀 在开发项目内安装插件即可使用
 - [x] 🧳 0 配置支持前端开发者们最喜欢的热重载功能
 - [x] 🔨 和 Nuxt DevTools 一样的辅助开发能力
