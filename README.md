@@ -51,6 +51,58 @@ export default defineConfig() {
 6. 通过自然语言指令修改代码
 7. 和 LLM 还有 Guii AI 一起写前端！
 
+## 如何开发
+
+该项目使用 [`unbuild`](https://github.com/unjs/unbuild)和 [`vite`](https://github.com/vitejs/vite)进行开发和构建。有了 [`jiti`](https://github.com/unjs/jiti)提供的强大功能，我们不再需要使用 [Rollup](https://rollupjs.org/) 进行繁琐的配置，然后观察本地文件的变化，并在没有 [`vite`](https://github.com/vitejs/vite)进行热加载的情况下捆绑修改和开发的模块。我们可以直接运行以下命令输出捆绑文件并开始开发：
+
+```shell
+# run these scripts in root folder
+pnpm i
+pnpm run packages:stub
+```
+
+如果你使用 [`@antfu/ni`](https://github.com/antfu/ni)，也可以使用下面的命令：
+
+```shell
+nr packages:stub
+```
+
+现在，启动 Vue3 Playground：
+
+```shell
+pnpm run play:vue
+```
+
+如果你使用 [`@antfu/ni`](https://github.com/antfu/ni)，也可以使用下面的命令：
+
+```shell
+nr docs:dev
+```
+
+## 如何构建
+
+```shell
+pnpm run packages:build
+```
+
+如果你使用 [`@antfu/ni`](https://github.com/antfu/ni)，也可以使用下面的命令：
+
+```shell
+nr packages:build
+```
+
+用下面的命令构建：
+
+```shell
+pnpm run docs:build
+```
+
+如果你使用 [`@antfu/ni`](https://github.com/antfu/ni)，也可以使用下面的命令：
+
+```shell
+nr docs:build
+```
+
 ## 关于我们
 
 ### 成员（排名不分先后）
@@ -79,3 +131,18 @@ export default defineConfig() {
 
 核心开发者，串联起了整个项目的前后端，打通了实时编辑和热重载、完成架构设计、API 设计、规范统一化、工具链和提供 LLM 调用和设计的最佳实践，让我们的 DevTools 更加完整和易用。
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=guiiapp/guii-devtools&type=Date)](https://star-history.com/#guiiapp/guii-devtools&Date)
+
+<!-- ## 项目状态
+
+![Repobeats analytics image](https://repobeats.axiom.co/api/embed/422f7e142085eeb0c7ef854046101bf90927de91.svg "Repobeats analytics image") -->
+
+## 贡献者们
+
+感谢每一位为 Guii DevTools 项目做出贡献的朋友们！
+
+[![contributors](https://contrib.rocks/image?repo=guiiapp/guii-devtools)](https://github.com/guiiapp/guii-devtools/graphs/contributors)
+
+### Written with ♥
