@@ -114,27 +114,21 @@ nr docs:build
 
 ### 成员（排名不分先后）
 
-#### Rizumu (@LittleSound)
+#### Rizumu ([@LittleSound](https://github.com/LittleSound))
 
 - [Github](https://github.com/LittleSound)
 
 开源老手，著名的前三大前端框架之一的第二大框架 [Vue.js](https://vuejs.org) 的核心成员，在开发的过程中帮助我们团队深入 Vue.js 底层，从编译器的角度处理得到了开发服务器的界面到源代码的映射。
 
-#### 特菈（@Dustella）
-
-- [Github](https://github.com/Dustella)
+#### 特菈（[@Dustella](https://github.com/Dustella)）
 
 前端核心开发者，撰写了非常多的前端界面，和我们的动画样式调优和封装，让我们的 DevTools 界面更加美观和易用。
 
-#### RainbowBird（@luoling8192）
-
-- [Github](https://github.com/luoling8192)
+#### RainbowBird（[@luoling8192](https://github.com/luoling8192)）
 
 后端核心开发者，负责提示词，工作流和 Agent 编排的开发，让我们的 DevTools 更加智能和易用。
 
-#### Neko（@nekomeowww)
-
-- [Github](https://github.com/nekomeowww)
+#### Neko（[@nekomeowww](https://github.com/nekomeowww))
 
 核心开发者，串联起了整个项目的前后端，打通了实时编辑和热重载、完成架构设计、API 设计、规范统一化、工具链和提供 LLM 调用和设计的最佳实践，让我们的 DevTools 更加完整和易用。
 
