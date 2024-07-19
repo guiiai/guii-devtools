@@ -2,7 +2,9 @@
 
 > ❤️ 充满爱的 AI 结对编程神器 —— 🐌 Guii Devtool，轻松融入现有前端项目，通过自然语言指令即可轻松定制和优化代码。我们不替代创造者或 Hackers，只愿成为他们桌旁的亲密伙伴，✨ 共同创造美好的产品。
 
-![](./docs/preview.gif)
+<p align="center">
+  <img src="./docs/preview.gif">
+</p>
 
 <p align="center">
     <a href="https://www.bilibili.com/video/BV131421t7Jk">它是如何运作的？请观看我们的演示视频！</a>| <a href="https://guii.app">官网</a>
