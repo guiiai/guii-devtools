@@ -14,6 +14,7 @@
     <a href="https://discord.gg/jVNjbbUJmy">加入 Discord 服务器 <img src="https://img.shields.io/discord/1229292283657195520?style=flat&logo=discord&logoColor=white&label=Discord&color=%23404eed" /></a>
 </p>
 
+<!--
 <p align="center">
     <span>加入微信群</span>
 </p>
@@ -21,6 +22,7 @@
 <p align="center">
     <img src="./docs/wechat.jpg" width="160" height="160">
 </p>
+-->
 
 - [x] 业务总是希望使用稳定的组件库，我们支持在编写的代码中适配组件，现有的项目架构和现成的代码
   - [x] 已经支持的组件库
@@ -32,6 +34,12 @@
 - [x] ☝️ 激活，选中，修改，审查代码，和 Guii AI 一起写前端
 - [x] 🌎 支持任意前端框架，Vue，React，Angular，Svelte，等等
 - [x] 🔮 多模态，用图片和 Figma，甚至是草图描述你的期望
+
+## 如何使用
+
+访问 [Guii.AI](https://guii.ai) 官网，加入等待列表。
+
+<!--
 
 ## How
 
@@ -110,6 +118,8 @@ pnpm run docs:build
 nr docs:build
 ```
 
+-->
+
 ## 关于我们
 
 ### 成员（排名不分先后）
@@ -118,7 +128,7 @@ nr docs:build
 
 - [Github](https://github.com/LittleSound)
 
-开源老手，著名的前三大前端框架之一的第二大框架 [Vue.js](https://vuejs.org) 的核心成员，在开发的过程中帮助我们团队深入 Vue.js 底层，从编译器的角度处理得到了开发服务器的界面到源代码的映射。
+前端框架 [Vue.js](https://vuejs.org) 的成员，在开发的过程中帮助我们团队深入 Vue.js 底层，从编译器的角度处理得到了开发服务器的界面到源代码的映射。
 
 #### 特菈（[@Dustella](https://github.com/Dustella)）
 
